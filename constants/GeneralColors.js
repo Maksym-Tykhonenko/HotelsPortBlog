@@ -1,0 +1,16 @@
+export const GENERAL_COLORS = {
+  mainBg1: '#5647cf',
+  mainBg2: '#2e1c72',
+  mainBg3: '#150e48',
+  mainBg4: '#7c62de',
+  mainBg5: '#3703fc',
+  container1: '#332da5',
+  container2: '#4e43c9',
+  iconsBg1: '#4b2899',
+  iconsBg2: '#140e48',
+  textColor: '#ffffff',
+  black: '#000000',
+  green1: '#1e2400',
+  green2: '#137909',
+  green3: '#00ff00',
+};
